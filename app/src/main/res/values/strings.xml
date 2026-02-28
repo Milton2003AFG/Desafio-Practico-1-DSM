@@ -8,4 +8,6 @@
     <string name="button_calcular_salario">Calcular Salario</string>
     <string name="button_calculadora">Calculadora</string>
     <string name="calculadora_promedio">Calculadora de Promedio</string>
+    <string name="titulo_main">Desafío Práctico 1</string>
+    <string name="subtitulo_main">DSM104 G03L</string>
 </resources>
