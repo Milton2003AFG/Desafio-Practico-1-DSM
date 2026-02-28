@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Desafio 1 DSM</string>
+    <string name="titulo_salario">Descuentos de Salario</string>
+    <string name="nombre_salario">Nombre: </string>
+    <string name="salario_salario">Salario: </string>
+    <string name="button_salario">Calcular </string>
 </resources>
