@@ -4,4 +4,8 @@
     <string name="nombre_salario">Nombre: </string>
     <string name="salario_salario">Salario: </string>
     <string name="button_salario">Calcular </string>
+    <string name="button_calcular_promedio">Calcular Promedio</string>
+    <string name="button_calcular_salario">Calcular Salario</string>
+    <string name="button_calculadora">Calculadora</string>
+    <string name="calculadora_promedio">Calculadora de Promedio</string>
 </resources>
